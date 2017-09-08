@@ -1,0 +1,81 @@
+body {
+    background-color: lightblue;
+    font-family: arial;
+    color: black;
+    text-align: center;
+    
+    
+ }
+
+ a {
+    margin-right: 4px; 
+	color: darkblue;
+	padding-left: 70px;
+	
+
+
+	 }
+ 
+
+
+#ik { height: 400px;
+	  width: 400px;
+	  margin-left: 500px;
+	  margin-top: 100px;
+
+
+
+}
+
+#intro { text-align: left;
+	     width: 400px;
+	     margin-top: -350px;
+	     padding-left: 300px;
+
+}
+
+#studie { text-align: left;
+	      margin-top: 100px;
+	      margin-left: 600px;
+	      width: 500px;
+
+
+}
+	 
+#hallo { text-align: center;
+	     margin-top: 100px;
+	     font-size: 20px;
+
+}
+
+#commanderij { height: 400px;
+	           width: 400px;
+	           padding-left: 300px;
+	           float: left;
+
+}
+
+#school { height: 400px;
+	      width: 400px;
+
+
+}
+
+#boe { height: 300px;
+	   width: 600px;
+	   margin-top:100px;
+
+}
+
+#werk {  width: 400px;
+	     margin-left: 550px;
+	     padding-top: 100px;
+	     text-align: left;
+	     
+
+}
+
+#blauw { margin-left: 200px;
+	     margin-top: 100px;
+
+ }
